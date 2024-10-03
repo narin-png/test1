@@ -1,6 +1,6 @@
 \test2
 test4/
-.logs
+*.logs
 !error.logs
 n?w.txt
 
